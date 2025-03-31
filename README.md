@@ -27,4 +27,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Lightinw)  
 
 
-![LeetCode Activity](https://leetcard.jacoblin.cool/Light_inw?theme=dark&ext=heatmap)
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/Light_inw?theme=dark&ext=heatmap)
