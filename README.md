@@ -27,9 +27,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Lightinw)  
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Light_inw?theme=dark&font=Monospace&ext=contest)  
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lightinw&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lightinw&show_icons=true&theme=dark)  
+![LeetCode Daily Activity](https://leetcode-stats-six.vercel.app/api?username=Light_inw&theme=dark)  
 
