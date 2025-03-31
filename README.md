@@ -25,3 +25,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aniket-wani-b5b1a3199)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Lightinw)  
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Light_inw?theme=dark&font=Monospace&ext=contest)  
