@@ -27,5 +27,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Lightinw)  
 
 
-![LeetCode Daily Activity](https://leetcode-stats-six.vercel.app/api?username=Light_inw&theme=dark)  
-
+![LeetCode Daily Activity](https://leetcode-stats-six.vercel.app/api?username=Light_inw&theme=dark)
