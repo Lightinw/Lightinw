@@ -1,5 +1,5 @@
 
-# Hi there, I'm [Aniket Wani] 👋
+# Hi there, I'm Aniket Wani 👋
 
 ## 🚀 About Me
 
@@ -28,3 +28,8 @@
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Light_inw?theme=dark&font=Monospace&ext=contest)  
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lightinw&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lightinw&show_icons=true&theme=dark)  
+
